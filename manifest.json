@@ -1,0 +1,23 @@
+{
+  "name": "המרכז הישראלי להגשמה – טיפול רגשי, תודעה וקבלה",
+  "short_name": "מרכז להגשמה",
+  "description": "טיפולים רגשיים בשיטת RHH, קואצ'ינג, תקשור, קבלה, ניקוי חסימות ועיכובים – מתוך שליחות, דיוק ואהבה אמיתית לאדם.",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fefdf7",
+  "theme_color": "#5c902d",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
